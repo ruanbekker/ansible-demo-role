@@ -1,0 +1,7 @@
+---
+# tasks file for ssh_config
+- name: Dummy task
+  ansible.builtin.debug:
+    msg: "This is a dummy task changing ssh port to ."
+  register: task_result
+

@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Ruan Bekker
+  description: Demo Ansible Role that outputs a string.
+  company: N/A
+  license: MIT
+  min_ansible_version: 2.1
+  galaxy_tags: []
+dependencies: []
